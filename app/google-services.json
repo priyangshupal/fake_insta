@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "535253611823",
+    "firebase_url": "https://fake-insta-c685d.firebaseio.com",
+    "project_id": "fake-insta-c685d",
+    "storage_bucket": "fake-insta-c685d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535253611823:android:2a48e529ead2bcb435ddda",
+        "android_client_info": {
+          "package_name": "com.example.fakeinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535253611823-seaklisup2poua75r3600mgmpb1d8540.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fakeinsta",
+            "certificate_hash": "b674c123cb5d4ea56aaf0db79544e51b9acfc982"
+          }
+        },
+        {
+          "client_id": "535253611823-ig85tf7olq6ssnht6o1pvg6523ourlus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUI7ao9ijcH65dUMx7Au8-IcgTBf-i6o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535253611823-ig85tf7olq6ssnht6o1pvg6523ourlus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
